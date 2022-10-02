@@ -18,3 +18,9 @@ html{
   scroll-behavior: smooth;
   font-size: 1em;
 }
+.nav ul li a,visited{
+ 
+  display: block;
+ 
+  padding: 19px 10px;
+}
